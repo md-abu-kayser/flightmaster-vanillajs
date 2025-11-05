@@ -1,4 +1,4 @@
-# Flight Master Pro | Vanilla JavaScript
+# FlightMaster Pro | Vanilla JavaScript
 
 FlightMaster Pro is a polished, modular, and production-minded single-page booking demo built with vanilla JavaScript, Tailwind + DaisyUI, and progressive UX patterns. It showcases advanced client-side architecture for authentication, booking workflows, theming, and performant UI interactions-ideal for portfolio presentation or as a baseline for production prototypes.
 
@@ -51,13 +51,17 @@ FlightMaster Pro is a polished, modular, and production-minded single-page booki
 
 ### Project Git and Link
 
-```
-
-git clone https://github.com/go-kawser/FlightMaster-VanillaJS.git
-```
+1. **git repo clone:**
 
 ```
-github Live Link: https://go-kawser.github.io/FlightMaster-VanillaJS/
+git clone https://github.com/md-abu-kayser/FlightMaster-VanillaJS.git
+
+```
+
+2. **github Live Link:**
+
+```
+https://md-abu-kayser.github.io/FlightMaster-VanillaJS/
 
 ```
 
@@ -88,21 +92,40 @@ github Live Link: https://go-kawser.github.io/FlightMaster-VanillaJS/
   - Behavior --> [js/\*.js](js/)
 - Follow semantic commit messages and include screenshots or short recordings for UI changes.
 
-#### Security and Privacy
+### Security and Privacy
 
 - Demo stores user data locally for UX; do not treat this as production-ready storage.
 - Remove or replace demo encodings and simulated providers before production roll-out.
 
-#### Contact / Email
-
-- For consulting, extensions, or custom integrations, include your contact or link to your GitHub profile.
-- **Email:** abu.kayser.official@gmail.com
-
-#### Appendix: Notable symbols and entry points
+### Appendix: Notable symbols and entry points
 
 - [`FlightMasterApp`](js/main.js) - Application bootstrap and global UX helpers. See [js/main.js](js/main.js).
 - [`AuthSystem`](js/auth.js) - All auth flows, validation and user management. See [js/auth.js](js/auth.js).
 - [`FlightBookingSystem`](js/booking.js) - Booking workflows, search, and local persistence. See [js/booking.js](js/booking.js).
 - [`ThemeManager`](js/theme.js) - Advanced theme handling with system preference sync. See [js/theme.js](js/theme.js).
 
-**Enjoy showcasing FlightMaster Pro --> it's designed to impress with clear architecture, polished UX, and ready-to-extend modules.**
+### License
+
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _FlightMaster-VanillaJS_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**
+
+- Enjoy showcasing FlightMaster Pro - it's designed to impress with clear architecture, polished UX, and ready-to-extend modules.
+
+---
