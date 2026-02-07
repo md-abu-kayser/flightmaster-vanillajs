@@ -1,8 +1,8 @@
-# FlightMaster Pro | Vanilla JavaScript
+# FlightMaster Pro - Vanilla JavaScript SPA for Flight Booking (Tailwind, DaisyUI, Local-first)
 
 FlightMaster Pro is a polished, modular, and production-minded single-page booking demo built with vanilla JavaScript, Tailwind + DaisyUI, and progressive UX patterns. It showcases advanced client-side architecture for authentication, booking workflows, theming, and performant UI interactions-ideal for portfolio presentation or as a baseline for production prototypes.
 
-### Badges
+## Badges
 
 - **Feature-rich**
 - **Modular ES Modules**
