@@ -54,14 +54,14 @@ FlightMaster Pro is a polished, modular, and production-minded single-page booki
 1. **git repo clone:**
 
 ```
-git clone https://github.com/md-abu-kayser/FlightMaster-VanillaJS.git
+git clone https://github.com/md-abu-kayser/flightmaster-vanillajs.git
 
 ```
 
 2. **github Live Link:**
 
 ```
-https://md-abu-kayser.github.io/FlightMaster-VanillaJS/
+https://md-abu-kayser.github.io/flightmaster-vanillajs/
 
 ```
 
